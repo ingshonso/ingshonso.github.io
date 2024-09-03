@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ingshonso.github.io/sitemap.html.gz
+Sitemap: https://ingshonso.github.io/app/sitemap.html.gz
+Sitemap: https://ingshonso.github.io/assets/sitemap.html.gz
+Sitemap: https://ingshonso.github.io/css/sitemap.html.gz
+Sitemap: https://ingshonso.github.io/includes/sitemap.html.gz
+Sitemap: https://ingshonso.github.io/item/sitemap.html.gz
+Sitemap: https://ingshonso.github.io/src/sitemap.html.gz
